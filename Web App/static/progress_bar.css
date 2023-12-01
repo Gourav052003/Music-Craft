@@ -1,0 +1,13 @@
+#progressText{
+
+    color:white;
+    font-size: 80px;
+}
+
+#progressBar{
+    height: 20px;
+    width: 100vw;
+    left: -20vw;
+    top: -5.5vh;
+    position: absolute;
+}
