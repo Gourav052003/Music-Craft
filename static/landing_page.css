@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    display: None;
+    position: relative;
+    
+}
+
+video {
+ 
+    height: 100%;
+    width: 100%;   
+}
+
+.videoBackground {
+
+    position: fixed;
+
+}
+
+.content{
+   
+    
+    left:37vw;
+    top: 40vh;
+
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+ 
+}
+
+.content div{
+
+    color: white;
+    
+}
+
+.content #Greeting{
+    font-size:40px;
+    margin-bottom: 10px;
+    font-style: bold;
+}
+
+.content #Explore{
+    font-size:20px;
+    margin-bottom: 10px;
+}
+
+.content a #getStarted{
+
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: aquamarine;
+    
+}
+
+.content a #getStarted:hover{
+
+
+    background-color:rgb(168, 9, 241);  
+    border-color: rgb(168, 9, 241);
+    
+}
+
+
+
+

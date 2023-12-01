@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fivive - Music Generation</title>
+    <link rel="stylesheet" href="../static/landing_page.css">
+    <link rel="stylesheet" href="../static/loader.css">
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    
+      
+</head>
+<body>
+    
+    <div id="loaderContainer">
+        <div class="loader"></div>
+        <div class="label">Loading...</div>
+    </div>
+    
+    
+    <div class = "container">
+
+
+        <div class="videoBackground">
+            <video playsinline autoplay muted loop>
+              <source src="../static/background3.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+        </div>
+        
+      
+
+        <div class="content">
+            
+            <div id = "Greeting">Welcome to our Website</div>
+            <div id = "Explore">Explore the World of Music Generation</div>
+           
+            <a href="{{url_for('link_to_file',filename = 'Music_app.html')}}"><button id = "getStarted" type="button">Get Started</button></a>
+           
+        </div>
+    
+
+    </div>
+   
+    <script src="{{ url_for('static', filename='loader.js') }}"></script>
+</body>
+</html>
