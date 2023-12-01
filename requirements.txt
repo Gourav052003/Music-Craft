@@ -1,0 +1,4 @@
+flask
+git+https://github.com/facebookresearch/audiocraft.git
+ffmpeg
+flask-ngrok2
