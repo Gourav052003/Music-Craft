@@ -21,8 +21,7 @@ Instructions needs to be followed for running this web application with Fully fu
     python app.py
     ```
 
-
-https://github.com/Gourav052003/Music-Craft/assets/81559597/064efc4d-b5ad-4cb3-96ef-924523112e58
+# Results
 
 
     
