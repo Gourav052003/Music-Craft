@@ -31,32 +31,11 @@ video {
 
 
 .headings{
-    /* font-size:30px; */
     margin:20px;
     font-weight: bold;
     color: white;
     border:2px solid white;
     display: inline-block;
- 
-
-    /* text-transform: uppercase;
-    background-image: linear-gradient(
-      -225deg,
-      #231557 10%,
-      #44107a 29%,
-      #ff1361 67%,
-      #fff800 100%
-    );
-    background-size: auto auto;
-    background-clip: border-box;
-    background-size: 200% auto;
-    color: #fff;
-    background-clip: text;
-    animation: textclip 2s linear infinite;
-    display: inline-block;
-         */
-
-
 }
 
 
@@ -68,14 +47,7 @@ video {
     padding: 10px;
     border-radius: 20px;
     box-shadow: 0px 0px 60px white;
-/* 
-    text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
-    
-    /* margin-bottom: 20px; */
-   /* text-shadow: 0px 0px 20px rgb(22, 40, 238);      */
-  }
+}
   
   @keyframes textclip {
     to {
@@ -91,11 +63,6 @@ video {
     border-radius: 20px;
     box-shadow: 0px 0px 60px white;
     margin-left: 22vw;
-
-    /* text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
-
 }
 
 
@@ -107,9 +74,6 @@ video {
     font-size:20px;
     font-style: italic;
     margin-left: 12vw;
-
-
-
 }
 
 input[type="file"]::file-selector-button {
@@ -135,14 +99,10 @@ input[type="file"]::file-selector-button {
   
   /* file upload button hover state */
   input[type="file"]::file-selector-button:hover {
-    /* background-color:rgb(12, 154, 85); */
-
+  
     border: 2px solid black;
     font-size: 1.04vmax;
-
-    /* margin:20px; */
     font-weight: bold;
-    /* color: white; */
 
     text-transform: uppercase;
     background-image: linear-gradient(
@@ -157,21 +117,9 @@ input[type="file"]::file-selector-button {
     background-size: 200% auto;
     color: #fff;
     background-clip: text;
-    /* text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
     animation: textclip 2s linear infinite;
-    display: inline-block;
-    /* background-color: #ff1361; */
-
-    
-  }
-  
-  /* file upload button active state */
-  /* input[type="file"]::file-selector-button:active {
-    background-color: #1648ab;
-    
-  } */
+    display: inline-block;   
+}
 
 .ChooseAudio .UploadForm{
 
@@ -203,17 +151,10 @@ input[type="file"]::file-selector-button {
 }
 
 .ChooseAudio #SubmitButton:hover {
-
-    /* border: 3px solid rgb(117, 164, 231);
-    font-size: 0.97vmax; */
-
     
     border: 2px solid black;
     font-size: 1.04vmax;
-
-    /* margin:20px; */
     font-weight: bold;
-    /* color: white; */
     font-style: italic;
 
     text-transform: uppercase;
@@ -229,13 +170,8 @@ input[type="file"]::file-selector-button {
     background-size: 200% auto;
     color: #fff;
     background-clip: text;
-    /* text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
     animation: textclip 2s linear infinite;
     display: inline-block;
-    /* background-color: #ff1361; */
-
 }
 
 .ChooseAudio #SubmitButton:active {
@@ -265,53 +201,22 @@ input[type="file"]::file-selector-button {
 }
 
 .ResultsAudio audio:hover{
-
-    /* border: 3px solid rgba(228, 231, 218, 0.938);     */
-    /* border: 3px solid rgb(55, 121, 235); 
-    box-shadow:  0px 0px 20px rgb(17, 255, 17); */
     border: 3px solid rgba(6, 191, 80, 0.959); 
     box-shadow: 0 0 20px rgb(69, 241, 187);   
-    /* rgb(117, 164, 231) */
 }
 
 .ResultsAudio button{
 
     box-shadow: 0px 0px 20px white;
-
     background-color:transparent;
     border-radius: 50px;
     width: 17vw;
     height:5vh;
-   
     font-size: 1vmax;
     margin-left: 3vw;
     cursor: pointer;
-    
     border: 2px solid white;
- 
     font-weight: bold;
-
-    /* text-transform: uppercase;
-    background-image: linear-gradient(
-      -225deg,
-      #231557 0%,
-      #44107a 29%,
-      #ff1361 67%,
-      #fff800 100%
-    );
-    background-size: auto auto;
-    background-clip: border-box;
-    background-size: 200% auto;
-    color: #fff;
-    background-clip: text;
-
-    animation: textclip 2s linear infinite;
-    display: inline-block;
-    font-style: italic;
-       */
-
-
-
 }
 
 .ResultsAudio button:hover{
@@ -339,10 +244,6 @@ input[type="file"]::file-selector-button {
     
 }
 
-
-
-
-
 .UploadedAudio audio{
 
     border: 3px solid black;
@@ -357,13 +258,7 @@ input[type="file"]::file-selector-button {
     border: 3px solid rgba(6, 191, 80, 0.959); 
     box-shadow: 0 0 20px rgb(69, 241, 187);   
 
-    
-
 }
-/* 
-Happy Rock
-Energetic EDM
-Sad Jazz */
 
 
 
