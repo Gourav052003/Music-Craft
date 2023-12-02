@@ -1,25 +1,3 @@
-
-
-// function preloader(){
-//     document.getElementsByClassName("loader").style.display = "none";
-//     document.getElementsByClassName("container").style.display = "block";
-// }//preloader
-// window.onload = preloader;
-
-
-// ===============================================
-
-// window.preloader = preloader;
-
-
-// $('document').ready(function(e) {
-
-//     $(".loader").fadeOut("slow"); 
-//     }); 
-
-// static/script.js
-
-
 $(document).ready(function() {
     // Get references to loader container and content
     const loaderContainer = $('#loaderContainer');
