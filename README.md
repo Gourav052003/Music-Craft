@@ -8,14 +8,14 @@ Simply upload a music piece of any duration, and witness the magic unfold! Music
 
 # 🌟 The Transformed Melodies:
 
-    1. Happy Rock 🤘:
-        Experience the vibrant energy of uplifting tunes that will have you tapping your feet and smiling from ear to ear. Get ready to infuse joy into every beat!
-    
-    2. Energetic EDM 💥:
-        Let the pulsating beats of high-energy EDM electrify your senses. Feel the rhythm, embrace the vibes, and let the music transport you to another dimension!
+1. Happy Rock 🤘:
+    Experience the vibrant energy of uplifting tunes that will have you tapping your feet and smiling from ear to ear. Get ready to infuse joy into every beat!
 
-    3. Sad Jazz 😢🎷:
-    Immerse yourself in the soulful melancholy of Sad Jazz. Each note tells a poignant story, creating a symphony of emotions that resonates deep within.
+2. Energetic EDM 💥:
+    Let the pulsating beats of high-energy EDM electrify your senses. Feel the rhythm, embrace the vibes, and let the music transport you to another dimension!
+
+3. Sad Jazz 😢🎷:
+Immerse yourself in the soulful melancholy of Sad Jazz. Each note tells a poignant story, creating a symphony of emotions that resonates deep within.
 
 
 # 🚀 Why Music Craft?
