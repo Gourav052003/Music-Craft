@@ -20,11 +20,9 @@ Immerse yourself in the soulful melancholy of Sad Jazz. Each note tells a poigna
 
 # 🚀 Why Music Craft?
 
-    * Innovative Transformation: Witness the power of Transformer technology crafting music with precision and creativity.
-    
-    * Tailored Output: Three distinct genres ensure a diverse and personalized musical experience for every user.
-    
-    * Endless Possibilities: Whether you're looking for joyous rhythms, energetic beats, or soulful melodies, Music Craft delivers an array of musical emotions.
+* Innovative Transformation: Witness the power of Transformer technology crafting music with precision and creativity.
+* Tailored Output: Three distinct genres ensure a diverse and personalized musical experience for every user.
+* Endless Possibilities: Whether you're looking for joyous rhythms, energetic beats, or soulful melodies, Music Craft delivers an array of musical emotions.
     
 Music Craft is a Transformer based Music Crafting Web application where user can upload a music of any duration and as an output gets 3 (each of 8 seconds) different music which are as follows:
 
